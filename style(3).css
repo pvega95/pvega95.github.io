@@ -39,6 +39,7 @@ header.startup h1 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
+  justify-content:center;
   font-family: 'Montserrat', sans-serif;
 }
 
